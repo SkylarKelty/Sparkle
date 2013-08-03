@@ -1,6 +1,6 @@
 {
-   "name": "Sparkle/Core",
-   "description": "A high-performance Template Parser designed to work inside a full templating engine or alongside an application.",
+   "name": "skylarkelty/sparkle",
+   "description": "Lightweight template engine built around the Spark parser",
    "type": "library",
    "keywords": [
       "template",
