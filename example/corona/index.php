@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Home | Sparkle</title>
+        <SPKTitle>Home | Corona Theme</SPKTitle>
     </head>
-    <body>
+    <SPKBody>
         <div class="container">
-            <h1>Welcome to Sparkle!</h1>
+            <h1>Welcome to the Corona Theme!</h1>
             <p>This is a demonstration of how Sparkle can be used...</p>
         </div>
         <div class="version">
             <p>Rendered with <SPKSparkleVersion /> and parsed by <SPKVersion /></p>
         </div>
-    </body>
+    </SPKBody>
 </html>
