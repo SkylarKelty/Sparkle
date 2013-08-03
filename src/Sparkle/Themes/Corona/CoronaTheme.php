@@ -10,12 +10,16 @@ namespace Sparkle\Themes\Corona;
 /**
  * The default theme of Sparkle
  */
-class CoronaTheme
+class CoronaTheme extends \Sparkle\Core\Theme
 {
 	/**
-	 * Process a tag and return the result
+	 * Returns an array of valid tags for this theme
 	 */
-	public function process($tagName, $attributes, $innerHtml) {
-		return $innerHtml;
+	protected function getTags() {
+		return array(
+			"Title",
+			"Body",
+			"ThemeVersion"
+		);
 	}
 }
