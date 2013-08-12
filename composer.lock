@@ -3,20 +3,20 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "b22b317fc2c36c623735da62fe1fdb68",
+    "hash": "1d5069c440493522efa239178d66ce3f",
     "packages": [
         {
             "name": "skylarkelty/spark",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/SkylarKelty/Spark.git",
-                "reference": "1.1.0"
+                "reference": "1.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SkylarKelty/Spark/zipball/1.1.0",
-                "reference": "1.1.0",
+                "url": "https://api.github.com/repos/SkylarKelty/Spark/zipball/1.1.1",
+                "reference": "1.1.1",
                 "shasum": ""
             },
             "require": {
@@ -50,7 +50,7 @@
                 "template",
                 "templating"
             ],
-            "time": "2013-08-12 13:50:12"
+            "time": "2013-08-12 17:45:20"
         }
     ],
     "packages-dev": [
