@@ -9,7 +9,7 @@
             <p>This is a demonstration of how Sparkle can be used...</p>
         </div>
         <div class="version">
-            <p>Rendered with <SPKSparkleVersion /> and parsed by <SPKVersion /></p>
+            <p>Rendered with <SPKSparkleVersion /> and parsed by <SPKSparkVersion /></p>
         </div>
     </body>
 </html>

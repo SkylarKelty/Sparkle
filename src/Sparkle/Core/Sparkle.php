@@ -26,7 +26,7 @@ class Sparkle
 		$this->_config = $config;
 		$this->checkConfig();
 
-		$this->_spark = new \Spark\Core\Spark($this->_config['namespace'], function($html, $inner) {
+		$this->_spark = new \SkylarK\Spark\Spark($this->_config['namespace'], function($html, $inner) {
 			return $this->snippet($html, $inner);
 		});
 
